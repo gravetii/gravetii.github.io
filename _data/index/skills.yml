@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Java, Scala, Python, Cassandra, MongoDB, Kafka, Solr, Googling
+percentage: 80, 70, 60, 75, 70, 80, 80, 80, 95
