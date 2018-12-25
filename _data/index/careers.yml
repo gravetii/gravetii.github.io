@@ -1,29 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Walmart Labs
-    i18n: walmart_labs
+    detail: Walmart Labs, Bengaluru
   desc:
     detail: Currently working with the Ads Infrastructure team.
-    i18n: walmart_labs_desc
   date:
     detail: July 2018
-    i18n: walmart_labs_date
   job:
     detail: Senior Software Engineer
-    i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Hike Messenger
-    i18n: hike_messenger
+    detail: Hike Messenger, Delhi
   desc:
-    detail: Worked in the Messaging Infrastructure team.
-    i18n: hike_messenger_desc
+    detail: Worked with the Core Messaging Infrastructure backend team.
   date:
     detail: May 2014
-    i18n: hike_messenger_date
   job:
-    detail: Server Engineer
-    i18n: company_b_job
+    detail: Specialist Software Development Engineer
   icon: fa-plus-square
