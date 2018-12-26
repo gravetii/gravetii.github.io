@@ -9,7 +9,7 @@ layout: default
                 <div class="ibox-content">
                     <div class="pull-right">
                     	{% for category in page.categories %}
-                        	<a class="btn btn-white btn-xs" href="{{ category | downcase | prepend: '/' | prepend: site.baseurl }}">{{ category }}</a>
+                        	<a class="btn btn-white btn-xs" href="{{ category | downcase | prepend: '/blog/' | prepend: site.baseurl }}">{{ category }}</a>
                         {% endfor %}
                     </div>
                     <div class="text-center article-title">
@@ -31,7 +31,7 @@ layout: default
                             <div class="small text-right">
                                 <div>
                                 {% if site.disqus %}
-                                <i class="fa fa-comments-o"> </i> <span class="disqus-comment-count" data-disqus-url="{{ site.url }}{{ page.url }}">0</span> comments
+                                <i class="fa fa-comments-o"> </i> <span class="disqus-comment-count" data-disqus-url="{{ site.url }}/blog{{ page.url }}">0</span> comments
                                 {% endif %}
                                 </div>
                             </div>
