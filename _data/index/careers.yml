@@ -19,3 +19,17 @@
   job:
     detail: Specialist Software Development Engineer
   icon: fa-plus-square
+
+
+- name:
+    detail: BITS, Pilani
+  desc:
+    detail: >-
+      Relevant Courses - Computer Programming I, Computer Programming II,
+      Graphs and Networks, Computer Networks, OOP, Numerical Analysis,
+      Functional Analysis, Data structures and Algorithms, Co-ordinate Geometry
+  date:
+    detail: Graduated in 2013
+  job:
+    detail: Alma Mater
+  icon: fa-plus-square
