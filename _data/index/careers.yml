@@ -8,7 +8,7 @@
     detail: July 2018
   job:
     detail: Senior Software Engineer
-  icon: fa-plus-square
+  icon: fa-desktop
 
 - name:
     detail: Hike Messenger, Delhi
@@ -18,8 +18,7 @@
     detail: May 2014
   job:
     detail: Specialist Software Development Engineer
-  icon: fa-plus-square
-
+  icon: fa-desktop
 
 - name:
     detail: BITS, Pilani
@@ -32,4 +31,4 @@
     detail: Graduated in 2013
   job:
     detail: Alma Mater
-  icon: fa-plus-square
+  icon: fa-graduation-cap
