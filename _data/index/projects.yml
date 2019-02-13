@@ -1,9 +1,16 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Wordagam
+- name: wordagam
   i18n: wordagam
   gh_user: gravetii
   repo: wordagam
   img: /static/assets/img/landing/jekyll.png
   desc: A simple word game developed in Java with frontend in JavaFX. Check out my blog posts on this website if you are interested in the implementation.
+
+- name: diztil
+  i18n: diztil
+  gh_user: gravetii
+  repo: diztil
+  img: /static/assets/img/landing/jekyll.png
+  desc: A distributed peer-to-peer file discovery and sharing platform.
