@@ -8,9 +8,9 @@
   img: /static/assets/img/landing/jekyll.png
   desc: A simple word game developed in Java with frontend in JavaFX. Check out my blog posts on this website if you are interested in the implementation.
 
-- name: diztil
-  i18n: diztil
+- name: diztl
+  i18n: diztl
   gh_user: gravetii
-  repo: diztil
+  repo: diztl
   img: /static/assets/img/landing/jekyll.png
   desc: A distributed peer-to-peer file discovery and sharing platform.
