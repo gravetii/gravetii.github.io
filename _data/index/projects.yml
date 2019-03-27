@@ -1,16 +1,16 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: wordagam
-  i18n: wordagam
-  gh_user: gravetii
-  repo: wordagam
-  img: /static/assets/img/landing/jekyll.png
-  desc: A fun & interactive word game written in Java with frontend in JavaFX. Check out my blog posts on this website if you are interested in the implementation.
-
 - name: diztl
   i18n: diztl
   gh_user: gravetii
   repo: diztl
   img: /static/assets/img/landing/jekyll.png
   desc: A distributed peer-to-peer file discovery and sharing platform written in Go.
+
+- name: wordagam
+  i18n: wordagam
+  gh_user: gravetii
+  repo: wordagam
+  img: /static/assets/img/landing/jekyll.png
+  desc: A fun & interactive word game written in Java with frontend in JavaFX. Check out my blog posts on this website if you are interested in the implementation.
